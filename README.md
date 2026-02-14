@@ -6,7 +6,7 @@ This website showcases my skills, projects, and achievements as a web developer.
 
 ---
 
-## **Features**
+## Features
 
 - Clean, responsive, and modern design  
 - Showcases projects with live demos and GitHub links  
